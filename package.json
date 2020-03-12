@@ -1,0 +1,14 @@
+{
+  "name": "revisaoprova",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RenataCunha0/revisaoprova.git",
+  "author": "RenataCunha0 <renatapatriciacunha@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+      "start": "nodemon index.js"
+}
+}
